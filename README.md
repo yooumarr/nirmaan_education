@@ -42,11 +42,13 @@ Sentiment positivity (using VADER)
    ```bash
    git clone https://github.com/yooumarr/nirmaan_education.git
    cd nirmaan_education
+   ```
 
 2. Install dependencies:
   ```bash
   pip install -r requirements.txt
-
+  ```
 3. Run the app:
   ```bash
   streamlit run app.py
+  ```
