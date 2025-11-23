@@ -22,11 +22,6 @@ The final score is the **sum of all criterion scores** (max 100). Below is how e
 ### 1. Content & Structure (40 pts)
 Salutation, keyword presence, and logical flow
 
-- **Keyword Presence (30 pts)**  
-  - **Must-have (4 pts each, max 20)**: name, age, class/school, family, hobby  
-  - **Good-to-have (2 pts each, max 10)**: family trait, fun fact, ambition, origin, strengths  
-- **Flow (5 pts)**: Follows order → salutation → personal details → optional → closing
-
 ### 2. Speech Rate (10 pts)
 Words per minute (WPM) based on transcript length and duration
 
